@@ -1,0 +1,14 @@
+{
+  "name": "scalecommerce-sc_gitlab_ci_multi_runner",
+  "version": "0.1.0",
+  "author": "az@scale.sc",
+  "summary": "Wrapper for frankiethekneeman/puppet-gitlab-ci-multi-runner",
+  "license": "Apache 2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
